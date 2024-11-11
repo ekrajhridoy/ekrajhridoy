@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekrajhridoy
 - Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for Data Science. 
 - I enjoy building projects that uncover insights from data and solve real-world problems, while continuously exploring new technologies and techniques.
-- 
+- 👾 I like to work on Projects
 - 👀 I’m interested in Data Science Universe
 - 🌱 I’m currently learning Fundamental of Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis Projects
