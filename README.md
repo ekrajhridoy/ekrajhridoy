@@ -27,7 +27,7 @@ Welcome to my little corner of the internet — where code meets curiosity and i
 ---
 
 ## 📊 GitHub Stats:
-![Ekraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekrajhridoy&show_icons=true&theme=tokyonight)
+![Ekraj's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ekrajhridoy&show_icons=true&theme=tokyonight)
 
 ---
 
