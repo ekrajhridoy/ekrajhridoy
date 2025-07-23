@@ -21,7 +21,7 @@ Welcome to my little corner of the internet — where code meets curiosity and i
 - Advanced Web Scraping with **Selenium & BeautifulSoup**
 - Data Visualization with **Plotly**
 - 📈 Predictive Analytics using **Prophet**
-- **Machine Learning**
+- For creating model **Machine Learning**
 - Database management with **SQL**
 
 ---
