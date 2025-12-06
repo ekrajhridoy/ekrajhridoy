@@ -18,10 +18,9 @@ Welcome to my little corner of the internet — where code meets curiosity and i
 ---
 
 ## 🌱 Currently Exploring:
-- Advanced Web Scraping with **Selenium & BeautifulSoup**
+- **LLM Poisoning**,**Machine Learning**
 - Data Visualization with **Plotly**
 - 📈 Predictive Analytics using **Prophet**
-- For creating model **Machine Learning**
 - Database management with **SQL**
 
 ---
