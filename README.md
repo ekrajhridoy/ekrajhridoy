@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ekraj Hridoy!
 
-### 📊 Data Science Enthusiast | 🕸️ Web Scraping Explorer | 📚 Lifelong Learner
+### 📊 Data Science Enthusiast | 🕸️ LLM Research Enthusiast | 📚 Lifelong Learner
 
 Welcome to my little corner of the internet — where code meets curiosity and ideas turn into projects 🚀
 
