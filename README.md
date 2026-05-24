@@ -59,6 +59,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ekrajhridoy&show_icons=true&theme=tokyonight" />
 </p>
@@ -67,12 +68,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekrajhridoy&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekrajhridoy&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrajhridoy/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_ekraaaaaj_/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/ekrajhridoy)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/arifulekrajhridoy)
+
+---
+
+<h3 align="center">⚡ Turning Data into Insights & Ideas into Intelligent Systems ⚡</h3>
 
 ---
 
