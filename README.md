@@ -83,7 +83,3 @@
 ---
 
 <h3 align="center">⚡ Turning Data into Insights & Ideas into Intelligent Systems ⚡</h3>
-
----
-
-<h3 align="center">⚡ Turning Data into Insights & Ideas into Intelligent Systems ⚡</h3>
