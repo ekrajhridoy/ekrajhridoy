@@ -22,7 +22,7 @@ const ekraj = {
   tools: [Streamlit, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, XGBoost, Ollama],
   scraping: [Selenium, BeautifulSoup, "REST APIs"],
   research: ["Multilingual VLMs", "Bengali Culture Understanding", "Multimodal AI"],
-  currentFocus: "Evaluating VLMs across Bangla dialects for BANGLAVERSE (EMNLP 2026 Findings)"
+  currentFocus: "MemeBRAG (Bengali Retrieval-Augmented Generation for Multimodal Meme Intelligence)"
 }
 ```
 
