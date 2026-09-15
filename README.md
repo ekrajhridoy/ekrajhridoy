@@ -3,26 +3,26 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Data Science undergraduate passionate about AI, Machine Learning, and real-world problem solving  
-- 🔬 Working on research involving multilingual vision-language models and dataset-centric AI systems  
-- 📊 Interested in predictive analytics, intelligent automation, and analytical storytelling  
-- ⚡ Building practical data applications with Python, Streamlit, APIs, and automation tools  
-- 🌍 Exploring how AI can better understand multilingual and cultural contexts  
+##  About Me
+-  Data Science undergraduate passionate about AI, Machine Learning, and real-world problem solving  
+-  Working on research involving multilingual vision-language models and dataset-centric AI systems  
+-  Interested in predictive analytics, intelligent automation, and analytical storytelling  
+-  Building practical data applications with Python, Streamlit, APIs, and automation tools  
+-  Exploring how AI can better understand multilingual and cultural contexts  
 
 ---
 
-## 🌱 Currently Exploring
-- 🤖 Large Language Models (LLMs)  
-- 🧠 Advanced Machine Learning & Deep Neural Networks  
-- 🌐 Multilingual Vision-Language Systems  
-- 📊 Interactive Data Visualization & Analytical Storytelling  
-- 📈 Predictive Analytics & Forecasting  
-- 🗂️ Large-scale Dataset Mining & Metadata Analysis  
-- 🛢️ SQL, Database Architecture & Data Management  
-- ⚡ Streamlit-based AI/Data Applications  
-- 🔍 Exploratory Data Analysis (EDA) & Research-driven AI Systems  
-- 🤖 Intelligent Automation & Data Pipelines  
+##  Currently Exploring
+-  Large Language Models (LLMs)  
+-  Advanced Machine Learning & Deep Neural Networks  
+-  Multilingual Vision-Language Systems  
+-  Interactive Data Visualization & Analytical Storytelling  
+-  Predictive Analytics & Forecasting  
+-  Large-scale Dataset Mining & Metadata Analysis  
+-  SQL, Database Architecture & Data Management  
+-  Streamlit-based AI/Data Applications  
+-  Exploratory Data Analysis (EDA) & Research-driven AI Systems  
+-  Intelligent Automation & Data Pipelines  
 
 ---
 
@@ -50,11 +50,11 @@
 ---
 
 ## 📌 Current Projects
-- 🔬 Kaggle Dataset of Datasets Research Project  
-- 🌍 Multilingual AI & Cultural Understanding Research  
-- 📈 Predictive Analytics Systems  
-- ⚡ Streamlit-based Analytical Applications  
-- 🤖 AI-powered Data Exploration Workflows  
+-  MemeBrag : RAG based research project 
+-  Multilingual AI & Cultural Understanding Research  
+-  Predictive Analytics Systems  
+-  Streamlit-based Analytical Applications  
+-  AI-powered Data Exploration Workflows  
 
 ---
 
