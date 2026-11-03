@@ -42,7 +42,7 @@ Introduced **BANGLAVERSE**, a culturally grounded benchmark featuring 1,152 cura
 
 🌐 Website: [BANGLAVERSE](https://labib1610.github.io/BanglaVerse/)  
 📄 Paper: [Paper](https://arxiv.org/abs/2603.21165)  
-💻 Code: [GitHub Repository]()  
+💻 Code: [GitHub Repository](https://github.com/Labib1610/BanglaVerseV2)  
 🤗 Dataset: [Hugging Face Dataset](https://huggingface.co/datasets/FaiyazAbdullah114708/BanglaVerse)
 
 ### 🚀 Featured Projects
