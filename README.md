@@ -40,10 +40,10 @@ const ekraj = {
 
 Introduced **BANGLAVERSE**, a culturally grounded benchmark featuring 1,152 curated images expanded into 32K+ artifacts across 4 languages (Bangla, English, Hindi, Urdu) and 5 Bangla dialects, evaluating multilingual VLMs on VQA and Image Captioning.
 
-🌐 Website: [BANGLAVERSE](https://lnkd.in/gkDBsYtz)  
-📄 Paper: [Paper](https://lnkd.in/guzdQvV7)  
-💻 Code: [GitHub Repository](https://lnkd.in/g6CMYAMc)  
-🤗 Dataset: [Hugging Face Dataset](https://lnkd.in/gNpNWguH)
+🌐 Website: [BANGLAVERSE](https://labib1610.github.io/BanglaVerse/)  
+📄 Paper: [Paper](https://arxiv.org/abs/2603.21165)  
+💻 Code: [GitHub Repository]()  
+🤗 Dataset: [Hugging Face Dataset](https://huggingface.co/datasets/FaiyazAbdullah114708/BanglaVerse)
 
 ### 🚀 Featured Projects
 - **Stock X** — Full-stack AI financial intelligence platform with 16+ ML modules (LSTM forecasting, HMM regime detection, RL trading agent, offline Llama explanation engine)
