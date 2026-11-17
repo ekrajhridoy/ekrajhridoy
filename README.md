@@ -35,7 +35,7 @@ const ekraj = {
 - 🥇 Champion, CSE Project Show – Summer 2024 (OOP for Data Science Lab), United International University
 - 🥇 Champion, Python Wizards (Game Development Competition), IEEE UIU Student Branch
 
-### 📄 Research
+### 📄 Research Paper
 **Many Dialects, Many Languages, One Cultural Lens** — *Accepted at EMNLP 2026 Findings*
 
 Introduced **BANGLAVERSE**, a culturally grounded benchmark featuring 1,152 curated images expanded into 32K+ artifacts across 4 languages (Bangla, English, Hindi, Urdu) and 5 Bangla dialects, evaluating multilingual VLMs on VQA and Image Captioning.
